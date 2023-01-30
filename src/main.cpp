@@ -6,7 +6,7 @@ using namespace std;
 //Fernando Josue Aldaz Lascano
 //fernando.aldaz@epn.edu.ec
 //1726623000
-
+//https://github.com/Josxx24/deberBimestre2/blob/master/src/main.cpp
 
 int aldazSerie00(int n){
 
